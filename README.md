@@ -1,4 +1,4 @@
- 👋 Hi, I’m Yen. 一個興趣是coding的MIS，剛接觸React不久，目標成為全端工程師。
+ 👋 Hi, I’m Yen. 
 
 
 
